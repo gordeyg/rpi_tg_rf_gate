@@ -48,3 +48,9 @@ Commands below are only for advanced use and require master password.
 /start_signal - start sending signal and do not stop
 /stop_signal  - stop sending signal
 ```
+# Contributions
+Are appretiated. If you want to contribuite but don't now where to start from, here are some ideas:
+1) Ability to enable command execution notifications to accounts logged as Masters (who, what, when).
+2) Buttons instead of or additionally to slash commands.
+3) ...
+
