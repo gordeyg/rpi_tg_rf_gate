@@ -32,3 +32,19 @@ Legend:
 # Usage
 1) Replace defaults located in the beginning of script (master password, user password, GPIO port number if needed)
 2) Execute script.
+
+#### Iterface description aka /help:
+```
+Following commands are supported:
+/help  - list available commands
+/start  - same as above
+
+/auth   - authenticate (/auth <yourpassword>)
+/logout - logout
+
+/gate   - send command for gate to open/close (depending on current state)
+
+Commands below are only for advanced use and require master password.
+/start_signal - start sending signal and do not stop
+/stop_signal  - stop sending signal
+```
