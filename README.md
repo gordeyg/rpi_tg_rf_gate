@@ -27,6 +27,8 @@ Legend:
 * Blue wires - script controlabble circuit. As soon as script will enable GPIO - button on remote control will be triggered.
 * Green wires (optional part). Manual control circuit. Replacement for button we have ripped off before in case you still want an ability to pree button physically.
 
+![Wiring scheme](https://github.com/gordeyg/rpi_tg_rf_gate/scheme.png "Wiring scheme")
+
 # Usage
 1) Replace defaults located in the beginning of script (master password, user password, GPIO port number if needed)
 2) Execute script.
