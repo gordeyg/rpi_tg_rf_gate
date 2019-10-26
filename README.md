@@ -24,7 +24,7 @@ Remote control is marked as IC with two black wires coming from it on scheme.
 Legend:
 * Gray wire - ground.
 * Red wire - GPIO pin. On scheme - GPIO 21, which is hardcoded in script.
-* Blue wires - script controlabble circuit. As soon as script will enable GPIO - button on remote control will be triggered.
+* Blue wires - script controllable circuit. As soon as script will enable GPIO - button on remote control will be triggered.
 * Green wires (optional part). Manual control circuit. Replacement for button we have ripped off before in case you still want an ability to pree button physically.
 
 ![Wiring scheme](https://github.com/gordeyg/rpi_tg_rf_gate/blob/master/scheme.png "Wiring scheme")
